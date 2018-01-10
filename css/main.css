@@ -1,0 +1,26 @@
+header {
+  background-color: #3A3A3A;
+  color: white;
+}
+
+header h4 {
+  display: inline-block;
+  margin: 10px;
+  padding: 10px;
+}
+
+
+.main {
+  background: #ECE9E9;
+
+}
+
+.main article h1, h4 {
+  margin: 50px;
+
+}
+
+#botones .tablas {
+  font-size: 40px;
+  padding: 40px 0px;
+}
